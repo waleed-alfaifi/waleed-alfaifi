@@ -6,7 +6,7 @@
 - 🎓 I am a senior software engineering student.
 - ⚡ Fun fact: I love JavaScript.
 
-### Connect with me:
+## Connect with me:
 
 [<img width="22" align="left" src="https://github.com/waleed-alfaifi/waleed-alfaifi/raw/master/icons/globe.svg" alt="Personal Website" />][website]
 [<img width="22" align="left" src="https://github.com/waleed-alfaifi/waleed-alfaifi/raw/master/icons/linkedin.svg" alt="LinkedIn" />][linkedin]
