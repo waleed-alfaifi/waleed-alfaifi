@@ -2,8 +2,8 @@
 
 ## Connect with me:
 
-[<img width="22" align="left" src="/icons/linkedin.svg" alt="LinkedIn" />][linkedin]
-[<img width="22" align="left" src="/icons/globe.svg" alt="Personal Website" />][website]
+[<img width="22" align="left" src="https://github.com/waleed-alfaifi/waleed-alfaifi/raw/master/icons/globe.svg" alt="Personal Website" />][website]
+[<img width="22" align="left" src="https://github.com/waleed-alfaifi/waleed-alfaifi/raw/master/icons/linkedin.svg" alt="LinkedIn" />][linkedin]
 
 <!-- Definitions -->
 
