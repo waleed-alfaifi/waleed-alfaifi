@@ -1,9 +1,17 @@
-### Hi there, I'm Waleed - a JavaScript Web Developer and a lifelong learner :dart::computer:.
+### Hi there, I'm Waleed - a JavaScript Web Developer and a lifelong learner 🎯💻.
 
-## Connect with me:
+## In a nutshell,
+- 💻 I build fully functional web apps.
+- ✍ I write about programming topics.
+- 🎓 I am a senior software engineering student.
+- ⚡ Func fact: I love JavaScript.
+
+### Connect with me:
 
 [<img width="22" align="left" src="https://github.com/waleed-alfaifi/waleed-alfaifi/raw/master/icons/globe.svg" alt="Personal Website" />][website]
 [<img width="22" align="left" src="https://github.com/waleed-alfaifi/waleed-alfaifi/raw/master/icons/linkedin.svg" alt="LinkedIn" />][linkedin]
+
+<br />
 
 <!-- Definitions -->
 
