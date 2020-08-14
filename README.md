@@ -4,7 +4,7 @@
 - 💻 I build fully functional web apps.
 - ✍ I write about programming topics.
 - 🎓 I am a senior software engineering student.
-- ⚡ Func fact: I love JavaScript.
+- ⚡ Fun fact: I love JavaScript.
 
 ### Connect with me:
 
