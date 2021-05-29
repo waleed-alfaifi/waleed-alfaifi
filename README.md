@@ -1,19 +1,11 @@
 ## Hi there, I'm Waleed - a JavaScript full stack web developer and a lifelong learner 🎯💻.
 
-<em> Open to exciting opportunities in web development and software engineering 🙂🏢 </em>
-
-<em>For my portfolio of projects, please visit my [my personal website][website].</em>
-
 ## In a nutshell,
 
 - 💻 I build fully functional web apps.
-- 🎓 I am a senior software engineering student.
+- 🎓 I am a Software Engineering graduate.
 - 📚 I read about self-help topics.
 - ⚡ Fun fact: I love JavaScript.
-
-## ⏲ Currently I am:
-- Taking an internship as a front-end developer to further sharpen my skills with React
-- Finishing my last two courses in college 🎉🎓
 
 ## 🔨 Tools I work with
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -36,11 +28,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
-## 📘 My latest blog posts (in Arabic)
-
-- [<div dir="rtl">دليلك المبسط إلى فهم Closures في JavaScript</div>](https://3alam.pro/waleed-alfaifi/articles/javascript-closures)
-- [<div dir="rtl">هل دورات أكاديمية حسوب مناسبة لك؟ تجربتي مع دورة JavaScript من أكاديمية حسوب و التخرج منها بنجاح</div>](https://io.hsoub.com/webdev/109414-%D9%87%D9%84-%D8%AF%D9%88%D8%B1%D8%A7%D8%AA-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9-%D8%AD%D8%B3%D9%88%D8%A8-%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%84%D9%83-%D8%AA%D8%AC%D8%B1%D8%A8%D8%AA%D9%8A-%D9%85%D8%B9-%D8%AF%D9%88%D8%B1%D8%A9-javascript-%D9%85%D9%86-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9-%D8%AD%D8%B3%D9%88%D8%A8-%D9%88-%D8%A7%D9%84%D8%AA%D8%AE%D8%B1%D8%AC-%D9%85%D9%86%D9%87%D8%A7-%D8%A8%D9%86%D8%AC%D8%A7%D8%AD)
 
 ## Let's connect:
 
